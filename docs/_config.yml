@@ -7,3 +7,23 @@ search-id
 search-user-link
 search-user-password
 open-count
+$-
+    implementation 'com.facebook.android:facebook-applinks:latest.release'
+    implementation 'com.facebook.android:facebook-common:latest.release'
+    implementation 'com.facebook.android:facebook-core:latest.release'
+    implementation 'com.facebook.android:facebook-gamingservices:latest.release'
+    implementation 'com.facebook.android:facebook-login:latest.release'
+    implementation 'com.facebook.android:facebook-messenger:latest.release'
+    implementation 'com.facebook.android:facebook-share:latest.release'
+##
+doc
+#-(www.google.com/Facebook/user-id/username????/>
+Android install
+google.com
+chrorm.com
+Firefox.com
+--data/Facebook/data.com/termux
+--data/username/user-id/user-password/user-developer/f.book.com/8080
+data/username/user-id/user-password/user-developer/m.facebook.com/8080
+www.google/m.facebook-user-data/username/user-id/user-password/user-developer/f.book.com/8080
+
